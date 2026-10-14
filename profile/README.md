@@ -25,7 +25,7 @@ Searches such as DiDi AI ride matching, DiDi AI demand forecasting, and DiDi AI 
 | **Remembers context** | Trips, zones, and presets help you return to the next task fast. |
 | **Fast feedback** | Open DiDi AI, pick a zone, and test without switching tools. |
 
-![DiDi AI](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNTopnvORrQwonz0SSpu_LUsxlLGbNhXlLSb28GwrzG2i4_xuO2Q_ARbpS&s=10)
+![DiDi AI](https://didiai.vercel.app/meta.png)
 
 ## Key Features of DiDi AI
 
